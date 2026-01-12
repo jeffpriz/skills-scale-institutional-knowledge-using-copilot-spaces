@@ -22,6 +22,8 @@ Guidance for managing day-to-day execution and tracking progress toward project 
 - End-to-end smoke tests for critical flows before release
 - Security scanning in CI
 - Manual QA for feature acceptance when needed
+- Usability testing coordinated with UX/UI Designer
+- QA Lead reviews test coverage and quality metrics weekly
 
 ## Reporting & Metrics
 - Track velocity and burndown
@@ -38,3 +40,5 @@ Guidance for managing day-to-day execution and tracking progress toward project 
 - [ ] CI configured for tests and lint
 - [ ] Regular demos scheduled
 - [ ] Risk register updated weekly
+- [ ] DevOps Engineer monitoring infrastructure and pipeline health
+- [ ] Technical Writer keeping documentation up-to-date with changes

@@ -11,6 +11,7 @@ After each sprint, release, or important milestone. Also after incidents.
 - What could be improved
 - Action items (owner, due date)
 - Follow-up on previous action items
+- Customer feedback and insights from Customer Success Manager
 
 ## Running a Retrospective
 - Timebox: 45–75 minutes depending on team size
